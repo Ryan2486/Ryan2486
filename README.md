@@ -1,11 +1,11 @@
 ![MasterHead](https://64.media.tumblr.com/4734a95434dae031db7592d38f53325e/c852cd6b0b36d1f8-a9/s1280x1920/30d1ef996b6e0f93f9480f0c11a91f62c9a282c4.gif)
 
-<h1 align="center">Hi 👋, I'm AmigosRyan</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Web developer from Madagascar</h3>
 
 - 🌱 I’m currently learning **Design patterns**
 
-- 💬 Ask me about **Next JS , Express and other**
+- 💬 Ask me about **Next JS , Java 😏 and other**
 
 - 📫 How to reach me **ryanlai2486@gmail.com**
 
