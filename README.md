@@ -1,6 +1,5 @@
-![MasterHead](https://64.media.tumblr.com/4734a95434dae031db7592d38f53325e/c852cd6b0b36d1f8-a9/s1280x1920/30d1ef996b6e0f93f9480f0c11a91f62c9a282c4.gif)
 <div align="center">
-    <img width="200" src="https://64.media.tumblr.com/4734a95434dae031db7592d38f53325e/c852cd6b0b36d1f8-a9/s1280x1920/30d1ef996b6e0f93f9480f0c11a91f62c9a282c4.gif" alt="Material Bread logo">
+    <img width="600" src="https://64.media.tumblr.com/4734a95434dae031db7592d38f53325e/c852cd6b0b36d1f8-a9/s1280x1920/30d1ef996b6e0f93f9480f0c11a91f62c9a282c4.gif" alt="Material Bread logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
