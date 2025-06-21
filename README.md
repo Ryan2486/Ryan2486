@@ -1,21 +1,111 @@
-<div align="center">
-    <img width="600" src="https://64.media.tumblr.com/4734a95434dae031db7592d38f53325e/c852cd6b0b36d1f8-a9/s1280x1920/30d1ef996b6e0f93f9480f0c11a91f62c9a282c4.gif" alt="Material Bread logo">
-</div>
+# 👋 Hey there, I'm Ryan
 
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Web developer from Madagascar</h3>
+> "I was too powerful, so life nerfed me." — but the match isn’t over yet.
 
-- 🌱 I’m currently learning **Design patterns**
+## 🧠 About Me
 
-- 💬 Ask me about **Next JS , Java 😏 and other**
+🎓 Master’s student in Software Engineering & Databases at ENI  
+💡 Passionate about Artificial Intelligence — not for the buzz, but for the **real** magic behind it  
+🛠️ I love to break things down, understand them, and rebuild better. Systems, ideas… even myself.  
+🎮 Joker main in Smash Bros (yes, I dodge roll too much), and a bit of a philosopher on the side  
+🗣️ "I think so I'm", I like conversations with people who see the bigger picture and ask the real questions
 
-- 📫 How to reach me **ryanlai2486@gmail.com**
+## 🛠️ What I work with
 
-- ⚡ Fun fact **I think i'm funny 😜 and i like coffie ☕**
+- **Languages**: Java, Python, TypeScript, SQL  
+- **Frameworks**: Spring Boot, Next JS, FastAPI  
+- **Databases**: PostgreSQL, MySQL  
+- **Other tools**: Docker, Git, Postman
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔍 Currently working on...
 
-<h3 align="left">Please 😜:</h3>
-<p><a href="https://www.buymeacoffee.com/Pls 😜"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pls 😜" /></a></p><br><br>
+```java
+public class Main {
+    public static void main(String[] args) {
+        LearningPath path = new LearningPath();
 
+        path.append(new PatternNode(Patterns.SINGLETON, "One instance to rule them all."));
+        path.append(new PatternNode(Patterns.STRATEGY, "Behavioral flexibility, I choose my weapon."));
+        path.append(new PatternNode(Patterns.OBSERVER, "Reactive mind — I see, therefore I respond."));
+        path.append(new PatternNode(Patterns.NEURAL_NETWORK, "Imitating the brain. Learning from data."));
+        path.append(new PatternNode(Patterns.DEEP_REFLECTION, "Code, like thought, is about structure."));
+
+        path.traverse();
+    }
+}
+```
+```java
+public class PatternNode {
+    Patterns pattern;
+    String message;
+    PatternNode next;
+
+    public PatternNode(Patterns pattern, String message) {
+        this.pattern = pattern;
+        this.message = message;
+    }
+
+    public void display() {
+        System.out.println("🔹 " + pattern + " → " + message);
+    }
+}
+```
+```java
+public class LearningPath {
+    private PatternNode head;
+
+    public void append(PatternNode node) {
+        if (head == null) {
+            head = node;
+        } else {
+            PatternNode current = head;
+            while (current.next != null) {
+                current = current.next;
+            }
+            current.next = node;
+        }
+    }
+
+    public void traverse() {
+        System.out.println("My Learning Journey:");
+        PatternNode current = head;
+        while (current != null) {
+            current.display();
+            current = current.next;
+        }
+        System.out.println("🔚 Journey continues...\n");
+    }
+}
+```
+```java
+public enum Patterns {
+    SINGLETON,
+    STRATEGY,
+    OBSERVER,
+    NEURAL_NETWORK,
+    DEEP_REFLECTION
+}
+```
+
+## 💭 What I believe
+
+I believe that **every system has its flaws** — technical or human.  
+But that’s what makes it interesting.  
+I don’t trust default answers. I trust well-asked questions.  
+> Are we coding for performance, or just to avoid waste?  
+> Are we building something that works, or something people understand?  
+Maybe both. Maybe neither. Maybe it depends.
+
+## ✍️ Random facts
+
+- I keep a journal sometimes — somewhere between philosophy and debugging life  
+- I often smile for no reason. Duck mode on. 🦆  
+- I ask a thousand questions just to find that one simple, human, universal answer
+
+## 📫 Wanna chat AI, backend, life questions, or Smash Bros combos?
+
+Ping me here or [on LinkedIn](https://www.linkedin.com/in/ryan-ashny-rasoarimanana-lai-4406b4310/) (just a placeholder), or open an issue — who knows, it could be the start of something great.
+
+---
+
+_"It’s not really code that fascinates me — it’s what it reveals about us."_
