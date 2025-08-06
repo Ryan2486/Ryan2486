@@ -2,22 +2,22 @@
 
 > "I was too powerful, so life nerfed me." — but the match isn’t over yet.
 
-## 🧠 About Me
+## About Me
 
-🎓 Master’s student in Software Engineering & Databases at ENI  
-💡 Passionate about Artificial Intelligence — not for the buzz, but for the **real** magic behind it  
-🛠️ I love to break things down, understand them, and rebuild better. Systems, ideas… even myself.  
-🎮 Joker main in Smash Bros (yes, I dodge roll too much), and a bit of a philosopher on the side  
-🗣️ "I think so I'm", I like conversations with people who see the bigger picture and ask the real questions
+Master’s student in Software Engineering & Databases at ENI  
+Passionate about Artificial Intelligence — not for the buzz, but for the **real** magic behind it  
+I love to break things down, understand them, and rebuild better. Systems, ideas… even myself.  
+Joker main in Smash Bros (yes, I dodge roll too much), and a bit of a philosopher on the side  
+"I think so I'm", I like conversations with people who see the bigger picture and ask the real questions
 
-## 🛠️ What I work with
+## What I work with
 
 - **Languages**: Java, Python, TypeScript, SQL  
 - **Frameworks**: Spring Boot, Next JS, FastAPI  
 - **Databases**: PostgreSQL, MySQL  
 - **Other tools**: Docker, Git, Postman
 
-## 🔍 Currently working on...
+## Currently working on...
 
 ```java
 public class Main {
@@ -87,7 +87,7 @@ public enum Patterns {
 }
 ```
 
-## 💭 What I believe
+## What I believe
 
 I believe that **every system has its flaws** — technical or human.  
 But that’s what makes it interesting.  
@@ -96,10 +96,10 @@ I don’t trust default answers. I trust well-asked questions.
 > Are we building something that works, or something people understand?  
 Maybe both. Maybe neither. Maybe it depends.
 
-## ✍️ Random facts
+## Random facts
 
 - I keep a journal sometimes — somewhere between philosophy and debugging life  
-- I often smile for no reason. Duck mode on. 🦆  
+- I often smile for no reason. Duck mode on.
 - I ask a thousand questions just to find that one simple, human, universal answer
 
 ## 📫 Wanna chat AI, backend, life questions, or Smash Bros combos?
