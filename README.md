@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ryan
 
-> "I was too powerful, so life nerfed me." — but the match isn’t over yet.
+> "It's prime time to clucht up" — but the match isn’t over yet.
 
 ## About Me
 
