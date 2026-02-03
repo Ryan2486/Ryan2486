@@ -104,7 +104,7 @@ Maybe both. Maybe neither. Maybe it depends.
 
 ## 📫 Wanna chat AI, backend, life questions, or Smash Bros combos?
 
-Ping me here or [on LinkedIn](https://www.linkedin.com/in/ryan-ashny-rasoarimanana-lai-4406b4310/) (just a placeholder), or open an issue — who knows, it could be the start of something great.
+Ping me here or [on LinkedIn](https://www.linkedin.com/in/ryan-ashny-rasoarimanana-lai-4406b4310/), or open an issue — who knows, it could be the start of something great.
 
 ---
 
