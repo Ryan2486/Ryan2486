@@ -99,8 +99,8 @@ Maybe both. Maybe neither. Maybe it depends.
 ## Random facts
 
 - I keep a journal sometimes — somewhere between philosophy and debugging life  
-- I often smile for no reason. Duck mode on.
-- I ask a thousand questions just to find that one simple, human, universal answer
+- I often smile for no reason.
+- I ask a thousand questions just to find sometime nothing.
 
 ## 📫 Wanna chat AI, backend, life questions, or Smash Bros combos?
 
